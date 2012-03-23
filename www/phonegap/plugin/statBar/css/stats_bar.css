@@ -1,0 +1,30 @@
+/* OpenFeint PhoneGap Nav Toolbar - simple CSS definitions
+*
+ * @author WizCorp Inc. [ Incorporated Wizards ] 
+ * @copyright 2011
+ * @file Nav Toolbar CSS for openFeintPlugin for PhoneGap
+ *
+*/
+
+
+html {
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+
+body {
+
+	padding: 0;
+	margin-left: 50px;
+	
+	
+	color: white;
+	font-size: 12px;
+
+
+}
+
+#stat-bar {
+
+}
